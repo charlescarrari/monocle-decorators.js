@@ -618,6 +618,12 @@ babel-plugin-transform-exponentiation-operator@^6.22.0:
     babel-plugin-syntax-exponentiation-operator "^6.8.0"
     babel-runtime "^6.22.0"
 
+babel-plugin-transform-object-assign@^6.22.0:
+  version "6.22.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-transform-object-assign/-/babel-plugin-transform-object-assign-6.22.0.tgz#f99d2f66f1a0b0d498e346c5359684740caa20ba"
+  dependencies:
+    babel-runtime "^6.22.0"
+
 babel-plugin-transform-regenerator@^6.22.0:
   version "6.24.1"
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-regenerator/-/babel-plugin-transform-regenerator-6.24.1.tgz#b8da305ad43c3c99b4848e4fe4037b770d23c418"
@@ -3614,8 +3620,8 @@ string_decoder@~1.0.0:
     safe-buffer "~5.0.1"
 
 stringstream@~0.0.4:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/stringstream/-/stringstream-0.0.5.tgz#4e484cd4de5a0bbbee18e46307710a8a81621878"
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/stringstream/-/stringstream-0.0.6.tgz#7880225b0d4ad10e30927d167a1d6f2fd3b33a72"
 
 strip-ansi@^3.0.0, strip-ansi@^3.0.1:
   version "3.0.1"
